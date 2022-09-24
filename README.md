@@ -32,4 +32,4 @@
 * <a href="https://medium.com/@oguzhanuyanik/sass-rehberi-dc0cc518070c">Sass Rehberi</a>
 
 ## React.js
-* <a href="https://medium.com/@oguzhanuyanik/react-js-nedir-e833a304c138">React.js nedir?</a>
+* <a href="https://medium.com/@oguzhanuyanik/react-js-nedir-e833a304c138">React.js Nedir?</a>
