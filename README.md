@@ -31,7 +31,7 @@
 ## SASS
 * <a href="https://medium.com/@oguzhanuyanik/sass-rehberi-dc0cc518070c">Sass Rehberi</a>
 
-## React.js
+## React
 * <a href="https://medium.com/@oguzhanuyanik/react-js-nedir-e833a304c138">React Nedir</a>
 * <a href="https://medium.com/@oguzhanuyanik/react-js-kurulum-e42e9d0d6562">React Kurulum</a>
 * <a href="https://medium.com/@oguzhanuyanik/react-ve-jsx-eb0ef9e61f7d">React ve JSX</a>
