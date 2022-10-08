@@ -34,6 +34,7 @@
 ## React.js
 * <a href="https://medium.com/@oguzhanuyanik/react-js-nedir-e833a304c138">React.js Nedir</a>
 * <a href="https://medium.com/@oguzhanuyanik/react-js-kurulum-e42e9d0d6562">React.js Kurulum</a>
+* <a href="https://medium.com/@oguzhanuyanik/react-ve-jsx-eb0ef9e61f7d">React ve JSX</a>
 
 ## Diğer
 * <a href="https://medium.com/@oguzhanuyanik/50-software-development-resources-347c8f19ef2">50 Software Development Resources</a>
