@@ -32,6 +32,7 @@
 * <a href="https://medium.com/@oguzhanuyanik/sass-rehberi-dc0cc518070c">Sass Rehberi</a>
 
 ## JavaScript
+* <a href="https://medium.com/@oguzhanuyanik/javascript-surumleri-d41ab65317dd">JavaScript Sürümleri</a>
 * <a href="https://medium.com/@oguzhanuyanik/var-let-ve-const-farklari-c9f4e0bf59c0">Var, Let ve Const Arasındaki Farklar</a>
 
 ## React
