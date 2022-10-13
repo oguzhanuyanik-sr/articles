@@ -31,6 +31,9 @@
 ## SASS
 * <a href="https://medium.com/@oguzhanuyanik/sass-rehberi-dc0cc518070c">Sass Rehberi</a>
 
+## JavaScript
+* <a href="https://medium.com/@oguzhanuyanik/var-let-ve-const-farklari-c9f4e0bf59c0">Var, Let ve Const Arasındaki Farklar</a>
+
 ## React
 * <a href="https://medium.com/@oguzhanuyanik/react-js-nedir-e833a304c138">React Nedir</a>
 * <a href="https://medium.com/@oguzhanuyanik/react-js-kurulum-e42e9d0d6562">React Kurulum</a>
