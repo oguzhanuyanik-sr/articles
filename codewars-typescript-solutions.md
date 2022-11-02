@@ -1,4 +1,4 @@
-# Codewars TypeScript Solutions
+# Codewars TypeScript Çözümleri
 
 #### 36) Sayılardan oluşan bir string verilir, rakam 5'den küçükse 0, 5'den büyükse 1 ile değiştirilmelidir.
 
