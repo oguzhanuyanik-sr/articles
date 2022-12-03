@@ -2,6 +2,7 @@
 * <a href="https://medium.com/@oguzhanuyanik/temel-a%C4%9F-kavramlar%C4%B1-4fe64187f46f">Temel Ağ Kavramları</a>
 * <a href="https://medium.com/@oguzhanuyanik/temel-seo-teknikleri-a9f3b6534232">Temel SEO Teknikleri</a>
 * <a href="https://medium.com/@oguzhanuyanik/web-eri%C5%9Filebilirli%C4%9Fi-3a1443bd4437">Web Erişebilirliği</a>
+* <a href="https://medium.com/@oguzhanuyanik/http-metotlar%C4%B1-c1014b2a446b">HTTP Metotları (CRUD)</a>
 
 ## HTML
 * <a href="https://medium.com/@oguzhanuyanik/html-referans%C4%B1-a2ecfc404b85">HTML Referansı</a>
