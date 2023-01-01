@@ -42,4 +42,4 @@
 * <a href="https://medium.com/@oguzhanuyanik/react-ve-jsx-eb0ef9e61f7d">React ve JSX</a>
 
 ## Diğer
-* <a href="https://medium.com/@oguzhanuyanik/50-software-development-resources-347c8f19ef2">50 Software Development Resources</a>
+* <a href="https://medium.com/@oguzhanuyanik/google-arama-teknikleri-13eef1bfaa49">Google Arama Teknikleri</a>
