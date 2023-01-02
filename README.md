@@ -35,6 +35,7 @@
 ## JavaScript
 * <a href="https://medium.com/@oguzhanuyanik/javascript-surumleri-d41ab65317dd">JavaScript Sürümleri</a>
 * <a href="https://medium.com/@oguzhanuyanik/var-let-ve-const-farklari-c9f4e0bf59c0">Var, Let ve Const Arasındaki Farklar</a>
+* <a href="https://medium.com/@oguzhanuyanik/javascript-data-destructuring-5aec913c48bb">Data Destructuring</a>
 
 ## React
 * <a href="https://medium.com/@oguzhanuyanik/react-js-nedir-e833a304c138">React Nedir</a>
