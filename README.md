@@ -1,5 +1,5 @@
 ## Diğer Konular
-* <a href="https://github.com/oguzhanuyanik-sr/articles/blob/main/ChatGPT%20ve%20%C4%B0STEM%20TEKN%C4%B0KLER%C4%B0.pdf">Yüksek Lisans Araştırması: ChatGPT ve İstem Teknikleri</a>
+* <a href="https://github.com/oguzhanuyanik-sr/articles/blob/main/ChatGPT%20ve%20%C4%B0STEM%20TEKN%C4%B0KLER%C4%B0.pdf">ChatGPT ve İstem Teknikleri (Yüksek Lisans Araştırması)</a>
 * <a href="https://medium.com/@oguzhanuyanik/google-arama-teknikleri-13eef1bfaa49">Google Arama Teknikleri</a>
 
 ## Temel Konular
