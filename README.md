@@ -1,3 +1,7 @@
+## Diğer Konular
+* <a href="https://github.com/oguzhanuyanik-sr/articles/blob/main/ChatGPT%20ve%20%C4%B0STEM%20TEKN%C4%B0KLER%C4%B0.pdf">Yüksek Lisans Araştırması: ChatGPT ve İstem Teknikleri</a>
+* <a href="https://medium.com/@oguzhanuyanik/google-arama-teknikleri-13eef1bfaa49">Google Arama Teknikleri</a>
+
 ## Temel Konular
 * <a href="https://medium.com/@oguzhanuyanik/temel-a%C4%9F-kavramlar%C4%B1-4fe64187f46f">Temel Ağ Kavramları</a>
 * <a href="https://medium.com/@oguzhanuyanik/temel-seo-teknikleri-a9f3b6534232">Temel SEO Teknikleri</a>
@@ -41,6 +45,3 @@
 * <a href="https://medium.com/@oguzhanuyanik/react-js-nedir-e833a304c138">React Nedir</a>
 * <a href="https://medium.com/@oguzhanuyanik/react-js-kurulum-e42e9d0d6562">React Kurulum</a>
 * <a href="https://medium.com/@oguzhanuyanik/react-ve-jsx-eb0ef9e61f7d">React ve JSX</a>
-
-## Diğer
-* <a href="https://medium.com/@oguzhanuyanik/google-arama-teknikleri-13eef1bfaa49">Google Arama Teknikleri</a>
