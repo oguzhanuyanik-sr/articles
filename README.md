@@ -46,3 +46,4 @@
 * <a href="https://medium.com/@oguzhanuyanik/react-js-kurulum-e42e9d0d6562">React Kurulum</a>
 * <a href="https://medium.com/@oguzhanuyanik/react-ve-jsx-eb0ef9e61f7d">React ve JSX</a>
 * <a href="https://medium.com/@oguzhanuyanik/react-memo-usememo-ve-usecallback-4c5391bd1f51">React.memo, useMemo ve useCallback</a>
+* <a href="https://medium.com/@oguzhanuyanik/useref-ve-forwardref-224e43a8cc3">useRef ve useForward</a>
